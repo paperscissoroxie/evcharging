@@ -1,0 +1,14 @@
+# specific files
+.env
+.DS_Store
+
+# files
+*.pdf
+
+# directories
+/_venv
+/archive
+/data
+/logs
+/ref
+/temp
